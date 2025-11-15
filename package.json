@@ -9,9 +9,14 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@tailwindcss/typography": "^0.5.19",
+    "@tinacms/cli": "^1.12.2",
+    "gray-matter": "^4.0.3",
     "next": "16.0.3",
     "react": "19.2.0",
-    "react-dom": "19.2.0"
+    "react-dom": "19.2.0",
+    "react-markdown": "^10.1.0",
+    "tinacms": "^2.9.3"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
